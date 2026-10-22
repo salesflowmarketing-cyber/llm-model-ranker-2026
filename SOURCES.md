@@ -1,3 +1,14 @@
+## Data ownership notice
+
+This repository contains **only** the analysis, the extraction code, and the CSV
+files derived from publicly available leaderboards. The underlying benchmark
+data belongs to its respective publishers (Artificial Analysis, Arena,
+OpenRouter, benchlm.ai, llm-stats.com, and the model vendors). Benchmark names
+are trademarks of their respective authors. **Cite the sources below, not this
+repository.**
+
+---
+
 # Sources & Extraction Method
 
 Research snapshot: **22 October 2026**. Every number in `data/` was pulled live

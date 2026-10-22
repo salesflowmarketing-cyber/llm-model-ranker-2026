@@ -1,0 +1,613 @@
+board,rank,name,score,openrouter_slug,permaslug
+intelligence,1,"Claude Opus 5.5 (Max, Default Fallback)",57.6,anthropic/claude-opus-5.5,anthropic/claude-opus-5.5-20260921
+intelligence,2,"Claude Sonnet 5.5 (Max, Default Fallback)",56,anthropic/claude-sonnet-5.5,anthropic/claude-sonnet-5.5-20260928
+intelligence,3,"Claude Fable 5.1 (Max, Default Fallback)",53.4,anthropic/claude-fable-5.1,anthropic/claude-fable-5.1-20260831
+intelligence,4,Qwen3.8 Max,53.4,qwen/qwen3.8-max,qwen/qwen3.8-max-20260803
+intelligence,5,GPT-6 Astra (Max),52.7,openai/gpt-6-astra,openai/gpt-6-astra-20260903
+intelligence,6,Gemini 4 Argon (High),52.6,google/gemini-4-argon,google/gemini-4-argon-20261013
+intelligence,7,GPT-6.1 Sol (Max),51.8,openai/gpt-6.1-sol,openai/gpt-6.1-sol-20260929
+intelligence,8,Claude Opus 5 (Max),50.8,anthropic/claude-opus-5,anthropic/claude-opus-5-20260723
+intelligence,9,"Claude Fable 5 (Max, Opus 4.8 Fallback)",49.6,,anthropic/claude-5-fable-20260609
+intelligence,10,Muse Spark 1.3 (Max),48.1,,meta/muse-spark-1.3-20260902
+intelligence,11,GPT-6 Sol (Max),47.6,openai/gpt-6-sol,openai/gpt-6-sol-20260922
+intelligence,12,GPT-5.6 Sol (Max),47,openai/gpt-5.6-sol,openai/gpt-5.6-sol-20260709
+intelligence,13,Grok 4.7 (Xhigh),46.4,x-ai/grok-4.7,x-ai/grok-4.7-20260916
+intelligence,14,MiMo-V2.6-Pro,46.3,xiaomi/mimo-v2.6-pro,xiaomi/mimo-v2.6-pro-20260921
+intelligence,15,Qwen3.8 Max (0902),45.4,qwen/qwen3.8-max-0902,qwen/qwen3.8-max-20260902
+intelligence,16,GLM-5.3 (Max),44.8,z-ai/glm-5.3,z-ai/glm-5.3-20260816
+intelligence,17,Grok 4.6 (High),44.3,x-ai/grok-4.6,x-ai/grok-4.6-20260810
+intelligence,18,Step 5 Preview,43.7,,stepfun/step-5-preview-20261008
+intelligence,19,Kimi K3 (Max),43.6,moonshotai/kimi-k3,moonshotai/kimi-k3-20260715
+intelligence,20,Claude Haiku 5.5 (Max),43.4,anthropic/claude-haiku-5.5,anthropic/claude-haiku-5.5-20261007
+intelligence,21,MiniMax-M3.1-Flash,42.7,minimax/minimax-m3.1-flash,minimax/minimax-m3.1-flash-20261019
+intelligence,22,GPT-5.6 Terra (Max),42.1,openai/gpt-5.6-terra,openai/gpt-5.6-terra-20260709
+intelligence,23,GLM-5.3-Flash,41.8,z-ai/glm-5.3-flash,z-ai/glm-5.3-flash-20260826
+intelligence,24,Claude Opus 4.8 (Max),41.8,anthropic/claude-opus-4.8,anthropic/claude-4.8-opus-20260528
+intelligence,25,Ling 3.1 Flash,41.1,inclusionai/ling-3.1-flash,inclusionai/ling-3.1-flash-20261002
+intelligence,26,Gemini 3.8 Flash (High),40.9,google/gemini-3.8-flash,google/gemini-3.8-flash-20260902
+intelligence,27,Claude Opus 4.7 (Max),40.7,anthropic/claude-opus-4.7,anthropic/claude-4.7-opus-20260416
+intelligence,28,Qwen3.8 2.4T A95B,39.9,,qwen/qwen3.8-2.4t-a95b-20260812
+intelligence,29,Gemini 3.7 Flash (Medium),39.6,,google/gemini-3.7-flash-20260813
+intelligence,30,Muse Spark 1.2 (Xhigh),39.6,,meta/muse-spark-1.2-20260805
+intelligence,31,DeepSeek V4.1 Flash (Max),39.5,deepseek/deepseek-v4.1-flash-1017,deepseek/deepseek-v4.1-flash-20261017
+intelligence,32,GPT-5.4 (Xhigh),39,openai/gpt-5.4,openai/gpt-5.4-20260305
+intelligence,33,Grok 4.5 (High),38.8,x-ai/grok-4.5,x-ai/grok-4.5-20260708
+intelligence,34,Mistral Large 4 Preview,38.4,,mistralai/mistral-large-4-0-20261006
+intelligence,35,GPT-5.5 (Xhigh),38.4,openai/gpt-5.5,openai/gpt-5.5-20260423
+intelligence,36,Claude Sonnet 5 (Max),38.2,anthropic/claude-sonnet-5,anthropic/claude-sonnet-5-20260630
+intelligence,37,GPT-6 Luna (Max),38.1,openai/gpt-6-luna,openai/gpt-6-luna-20260922
+intelligence,38,MiMo-V2.6-Flash,37.9,xiaomi/mimo-v2.6-flash,xiaomi/mimo-v2.6-flash-20260921
+intelligence,39,GPT-5.6 Luna (Max),37.3,openai/gpt-5.6-luna,openai/gpt-5.6-luna-20260709
+intelligence,40,DeepSeek V4 Pro 0813 (Max),36,,deepseek/deepseek-v4-pro-20260813
+intelligence,41,DeepSeek V4 Flash Vision (Max),34.8,,deepseek/deepseek-v4-flash-vision-exp-20260821
+intelligence,42,DeepSeek V4 Flash 0731 (Max),34.3,,deepseek/deepseek-v4-flash-20260731
+intelligence,43,Gemini 3.6 Flash (High),34,google/gemini-3.6-flash,google/gemini-3.6-flash-20260721
+intelligence,44,Muse Spark 1.1 (Xhigh),33.7,,meta/muse-spark-1.1-20260709
+intelligence,45,Qwen3.8 27B (Xhigh),33.7,qwen/qwen3.8-27b,qwen/qwen3.8-27b-20260814
+intelligence,46,GLM-5.2 (Max),33.7,z-ai/glm-5.2,z-ai/glm-5.2-20260616
+intelligence,47,Gemini 3.5 Flash (Medium),33.6,,google/gemini-3.5-flash-20260519
+intelligence,48,GPT-5.3 Codex (Xhigh),32.5,openai/gpt-5.3-codex,openai/gpt-5.3-codex-20260224
+intelligence,49,Claude Opus 4.6 (Max),31.9,,anthropic/claude-4.6-opus-20260205
+intelligence,50,GPT-5.2 (Xhigh),30.4,openai/gpt-5.2,openai/gpt-5.2-20251211
+intelligence,51,DeepSeek V4 Pro 0424 (Max),30.4,,deepseek/deepseek-v4-pro-20260423
+intelligence,52,Claude Sonnet 4.6 (Max),30.1,,anthropic/claude-4.6-sonnet-20260217
+intelligence,53,Gemini 3.1 Pro Preview,29.7,google/gemini-3.1-pro-preview,google/gemini-3.1-pro-preview-20260219
+intelligence,54,Qwen3.7 Max,29.5,,qwen/qwen3.7-max-20260520
+intelligence,55,MiniMax-M3,29.2,minimax/minimax-m3,minimax/minimax-m3-20260531
+intelligence,56,Claude Opus 4.5 (Reasoning),29.1,,anthropic/claude-4.5-opus-20251124
+intelligence,57,MiMo-V2-Pro,28.6,xiaomi/mimo-v2-pro,xiaomi/mimo-v2-pro-20260318
+intelligence,58,GPT-5.2 Codex (Xhigh),28.5,openai/gpt-5.2-codex,openai/gpt-5.2-codex-20260114
+intelligence,59,Qwen3.6 Max Preview,28.4,,qwen/qwen3.6-max-preview-20260420
+intelligence,60,Solar Pro 4,28.2,upstage/solar-pro4,upstage/solar-pro4-20260810
+intelligence,61,Nex-N2-Pro (Based on Qwen3.5-397B-A17B),28.2,nex-agi/nex-n2-pro,nex-agi/nex-n2-pro
+intelligence,62,GLM-5 (Reasoning),27.9,,z-ai/glm-5-20260211
+intelligence,63,Grok Build 0.1 0616,27.2,,x-ai/grok-build-0.1-20260520
+intelligence,64,Kimi K2.6 (Reasoning),27,,moonshotai/kimi-k2.6-20260420
+intelligence,65,Qwen3.6 Plus,27,,qwen/qwen3.6-plus-04-02
+intelligence,66,GLM-5-Turbo,26.6,,z-ai/glm-5-turbo-20260315
+intelligence,67,Nemotron 3.5 Super VL,26.5,nvidia/nemotron-3.5-super-vl,nvidia/nemotron-3.5-super-vl-20261015
+intelligence,68,Gemini 3 Flash Preview (Reasoning),26.3,,google/gemini-3-flash-preview-20251217
+intelligence,69,GLM-5.1 (Reasoning),26.1,,z-ai/glm-5.1-20260406
+intelligence,70,MiMo-V2.5-Pro (Reasoning),26,xiaomi/mimo-v2.5-pro,xiaomi/mimo-v2.5-pro-20260422
+intelligence,71,Kimi K2.7 Code,25.8,,moonshotai/kimi-k2.7-code-20260612
+intelligence,72,Grok 4.20 0309 v2 (Reasoning),25.7,,x-ai/grok-4.20-20260309
+intelligence,73,Inkling Small,25.7,thinkingmachines/inkling-small,thinkingmachines/inkling-small-20260730
+intelligence,74,Hy3,25.3,,tencent/hy3-preview-20260421
+intelligence,75,Qwen3.7 Plus,25.2,,qwen/qwen3.7-plus-20260602
+intelligence,76,MiMo-V2-Omni-0327,25.1,,xiaomi/mimo-v2-omni-20260318
+intelligence,77,Inkling (Xhigh),25,thinkingmachines/inkling,thinkingmachines/inkling-20260715
+intelligence,78,Grok 4.3 (High),24.9,,x-ai/grok-4.3-20260430
+intelligence,79,GPT-5 Codex (High),24.9,,openai/gpt-5-codex
+intelligence,80,GPT-5.1 (High),24.7,openai/gpt-5.1,openai/gpt-5.1-20251113
+intelligence,81,DeepSeek V4.1 Flash (Non-reasoning),24.7,,deepseek/deepseek-v4.1-flash-20260910
+intelligence,82,Ling-3.0-flash-VL,24.6,inclusionai/ling-3.0-flash-vl,inclusionai/ling-3.0-flash-vl-20260910
+intelligence,83,DeepSeek V4 Flash 0420 (High),24.4,,deepseek/deepseek-v4-flash-20260423
+intelligence,84,GPT-5.4 mini (Xhigh),24.1,openai/gpt-5.4-mini,openai/gpt-5.4-mini-20260317
+intelligence,85,Solar Mini 4,24.1,upstage/solar-mini4,upstage/solar-mini4-20260922
+intelligence,86,GPT-5.1 Codex (High),23.7,openai/gpt-5.1-codex,openai/gpt-5.1-codex-20251113
+intelligence,87,Kimi K2.5 (Reasoning),23.5,moonshotai/kimi-k2.5,moonshotai/kimi-k2.5-0127
+intelligence,88,GLM 5V Turbo (Reasoning),23.5,,z-ai/glm-5v-turbo-20260401
+intelligence,89,GPT-5 (High),23,openai/gpt-5,openai/gpt-5-2025-08-07
+intelligence,90,Nemotron 3 Ultra 550B A55B (Reasoning),22.9,nvidia/nemotron-3-ultra-550b-a55b,nvidia/nemotron-3-ultra-550b-a55b-20260604
+intelligence,91,Qwen3.5 27B (Reasoning),22.9,,qwen/qwen3.5-27b-20260224
+intelligence,92,MiniMax-M2.5,22.8,minimax/minimax-m2.5,minimax/minimax-m2.5-20260211
+intelligence,93,MiniMax-M2.7,22.8,minimax/minimax-m2.7,minimax/minimax-m2.7-20260318
+intelligence,94,Claude 4.1 Opus (Reasoning),22.8,anthropic/claude-opus-4.1,anthropic/claude-4.1-opus-20250805
+intelligence,95,Ling-3.0-flash-Fin,22.6,inclusionai/ling-3.0-flash-fin,inclusionai/ling-3.0-flash-fin-20260827
+intelligence,96,Grok 4,22.5,,x-ai/grok-4-07-09
+intelligence,97,MiMo-V2-Flash (Feb 2026),22.4,,xiaomi/mimo-v2-flash-20251210
+intelligence,98,Gemini 3.5 Flash-Lite,22.2,google/gemini-3.5-flash-lite,google/gemini-3.5-flash-lite-20260721
+intelligence,99,GLM-4.7 (Reasoning),22.2,,z-ai/glm-4.7-20251222
+intelligence,100,Kimi K2 Thinking,22,,moonshotai/kimi-k2-thinking-20251106
+intelligence,101,o3-pro,21.9,openai/o3-pro,openai/o3-pro-2025-06-10
+intelligence,102,MiMo-V2.5,21.8,,xiaomi/mimo-v2.5-20260422
+intelligence,103,KAT Coder Pro V2,21.7,kwaipilot/kat-coder-pro-v2,kwaipilot/kat-coder-pro-v2-20260327
+intelligence,104,DeepSeek V3.2 (Reasoning),21.5,deepseek/deepseek-v3.2,deepseek/deepseek-v3.2-20251201
+intelligence,105,Qwen3.6 27B (Reasoning),21.4,,qwen/qwen3.6-27b-20260422
+intelligence,106,Qwen3.5 397B A17B (Non-reasoning),21.4,,qwen/qwen3.5-397b-a17b-20260216
+intelligence,107,Qwen3 Max Thinking,21.3,,qwen/qwen3-max-thinking-20260123
+intelligence,108,MiniMax-M2.1,20.9,,minimax/minimax-m2.1
+intelligence,109,GPT-5.4 nano (Xhigh),20.7,openai/gpt-5.4-nano,openai/gpt-5.4-nano-20260317
+intelligence,110,Claude 4.5 Sonnet (Reasoning),20.7,anthropic/claude-sonnet-4.5,anthropic/claude-4.5-sonnet-20250929
+intelligence,111,Claude 4 Opus (Reasoning),20.6,anthropic/claude-opus-4,anthropic/claude-4-opus-20250522
+intelligence,112,GPT-5 mini (Medium),20.6,,openai/gpt-5-mini-2025-08-07
+intelligence,113,Grok 4.1 Fast (Reasoning),20.4,,x-ai/grok-4.1-fast
+intelligence,114,GPT-5.1 Codex mini (High),20.4,openai/gpt-5.1-codex-mini,openai/gpt-5.1-codex-mini-20251113
+intelligence,115,o3,20.2,openai/o3,openai/o3-2025-04-16
+intelligence,116,Ling 3.0 Flash,20.1,inclusionai/ling-3.0-flash,inclusionai/ling-3.0-flash-20260723
+intelligence,117,Step 3.7 Flash,19.5,stepfun/step-3.7-flash,stepfun/step-3.7-flash-20260528
+intelligence,118,Qwen3.5 35B A3B (Reasoning),19.3,,qwen/qwen3.5-35b-a3b-20260224
+intelligence,119,LongCat 2.0,19.1,meituan/longcat-2.0,meituan/longcat-2.0-20260720
+intelligence,120,Claude 4 Sonnet (Reasoning),18.9,anthropic/claude-sonnet-4,anthropic/claude-4-sonnet-20250522
+intelligence,121,MiniMax-M2,18.6,,minimax/minimax-m2
+intelligence,122,KAT-Coder-Pro V1,18.6,kwaipilot/kat-coder-pro,kwaipilot/kat-coder-pro-v1
+intelligence,123,GLM-4.6 (Reasoning),18.5,,z-ai/glm-4.6
+intelligence,124,Qwen3.6 35B A3B (Reasoning),18.2,,qwen/qwen3.6-35b-a3b-20260415
+intelligence,125,Grok 4 Fast (Reasoning),17.9,,x-ai/grok-4-fast
+intelligence,126,Qwen3.5 122B A10B (Non-reasoning),17.7,,qwen/qwen3.5-122b-a10b-20260224
+intelligence,127,Muse Glimmer (High),17.5,,meta/muse-glimmer-30b-20260810
+intelligence,128,Step 3.5 Flash 2603,17,stepfun/step-3.5-flash,stepfun/step-3.5-flash
+intelligence,129,Ling-2.6-1T,17,inclusionai/ling-2.6-1t,inclusionai/ling-2.6-1t-20260423
+intelligence,130,Claude 4.5 Haiku (Reasoning),16.9,,anthropic/claude-4.5-haiku-20251001
+intelligence,131,Gemma 4 26B A4B (Reasoning),16.7,,google/gemma-4-26b-a4b-it-20260403
+intelligence,132,o4-mini (High),16.7,openai/o4-mini,openai/o4-mini-2025-04-16
+intelligence,133,DeepSeek V3.2 Exp (Reasoning),16.6,,deepseek/deepseek-v3.2-exp
+intelligence,134,Ring-2.6-1T,16.6,inclusionai/ring-2.6-1t,inclusionai/ring-2.6-1t-20260508
+intelligence,135,Gemini 2.5 Pro,16.1,google/gemini-2.5-pro,google/gemini-2.5-pro
+intelligence,136,Gemini 3.1 Flash-Lite,15.6,google/gemini-3.1-flash-lite-preview,google/gemini-3.1-flash-lite-preview-20260303
+intelligence,137,Qwen3 Max,15.6,,qwen/qwen3-max
+intelligence,138,Gemini 2.5 Flash Preview (Sep '25) (Reasoning),15.5,google/gemini-2.5-flash-preview-09-2025,google/gemini-2.5-flash
+intelligence,139,Claude 3.7 Sonnet (Non-reasoning),15.3,,anthropic/claude-3-7-sonnet-20250219
+intelligence,140,Kimi K2 0905,15.3,,moonshotai/kimi-k2-0905
+intelligence,141,o1,15.2,openai/o1,openai/o1-2024-12-17
+intelligence,142,Gemini 2.5 Pro Preview (Mar' 25),15,google/gemini-2.5-pro-exp-03-25,google/gemini-2.5-pro-exp-03-25
+intelligence,143,GLM-4.7-Flash (Reasoning),14.9,,z-ai/glm-4.7-flash-20260119
+intelligence,144,DeepSeek V3.1 Terminus (Reasoning),14.8,,deepseek/deepseek-v3.1-terminus
+intelligence,145,Gemma 4 31B (Reasoning),14.7,,google/gemma-4-31b-it-20260402
+intelligence,146,Grok 3 mini Reasoning (High),14.6,,x-ai/grok-3-mini-beta
+intelligence,147,DeepSeek V3.2 Speciale,14.5,deepseek/deepseek-v3.2-speciale,deepseek/deepseek-v3.2-speciale-20251201
+intelligence,148,Mistral Medium 3.5,14.2,,mistralai/mistral-medium-3.5-20260430
+intelligence,149,Grok Code Fast 1,14.1,,x-ai/grok-code-fast-1
+intelligence,150,DeepSeek V3.1 (Non-reasoning),13.7,,deepseek/deepseek-chat-v3.1
+intelligence,151,Nova 2.0 Lite (High),13.4,,amazon/nova-2-lite-v1
+intelligence,152,Qwen3 VL 235B A22B (Reasoning),13.4,,qwen/qwen3-vl-235b-a22b-thinking
+intelligence,153,Qwen3.5 9B (Non-reasoning),13.3,,qwen/qwen3.5-9b-20260310
+intelligence,154,DeepSeek R1 0528 (May '25),13.1,,deepseek/deepseek-r1-0528
+intelligence,155,Command A+,13.1,,cohere/command-a-03-2025
+intelligence,156,GPT-5 nano (High),13,openai/gpt-5-nano,openai/gpt-5-nano-2025-08-07
+intelligence,157,Nemotron 3.5 Lightning,12.9,nvidia/nemotron-3.5-lightning,nvidia/nemotron-3.5-lightning-20260807
+intelligence,158,GLM-4.5 (Reasoning),12.8,,z-ai/glm-4.5
+intelligence,159,Nemotron 3 Super 120B A12B (Reasoning),12.8,nvidia/nemotron-3-super-120b-a12b,nvidia/nemotron-3-super-120b-a12b-20230311
+intelligence,160,Kimi K2,12.7,,moonshotai/kimi-k2
+intelligence,161,GPT-4.1,12.7,,openai/gpt-4.1-2025-04-14
+intelligence,162,Qwen3 235B A22B 2507 (Reasoning),12.7,,qwen/qwen3-235b-a22b-thinking-2507
+intelligence,163,o3-mini,12.5,openai/o3-mini,openai/o3-mini-2025-01-31
+intelligence,164,o1-pro,12.4,,openai/o1-pro
+intelligence,165,Mercury 2.5,12.3,inception/mercury-2.5,inception/mercury-2.5-20260908
+intelligence,166,Seed-OSS-36B-Instruct,12.1,bytedance/seed-oss-36b-instruct,bytedance/seed-oss-36b-instruct
+intelligence,167,Grok 3,12.1,,x-ai/grok-3-beta
+intelligence,168,Qwen3 235B A22B 2507 Instruct,12,,qwen/qwen3-235b-a22b-07-25
+intelligence,169,Qwen3 VL 32B (Reasoning),11.9,,qwen/qwen3-vl-32b-instruct
+intelligence,170,Qwen3 Coder 480B A35B Instruct,11.9,,qwen/qwen3-coder-480b-a35b-07-25
+intelligence,171,Sonar Reasoning Pro,11.8,,perplexity/sonar-reasoning-pro
+intelligence,172,MiniMax M1 80k,11.7,minimax/minimax-m1,minimax/minimax-m1
+intelligence,173,gpt-oss-120b (High),11.6,,openai/gpt-oss-120b
+intelligence,174,DeepSeek R1 (Jan '25),11.4,,deepseek/deepseek-r1
+intelligence,175,Mistral Small 4 (Reasoning),11.3,,mistralai/mistral-small-2603
+intelligence,176,GLM-4.6V (Reasoning),11.2,,z-ai/glm-4.6-20251208
+intelligence,177,Qwen3 Next 80B A3B (Reasoning),11.2,,qwen/qwen3-next-80b-a3b-thinking-2509
+intelligence,178,Ling 3.0 Tiny,11.1,inclusionai/ling-3.0-tiny,inclusionai/ling-3.0-tiny-20260806
+intelligence,179,Granite 4.2 8B,11.1,ibm-granite/granite-4.2-8b,ibm-granite/granite-4.2-8b-20260831
+intelligence,180,GLM-4.5-Air,11.1,,z-ai/glm-4.5-air
+intelligence,181,o3-mini (High),11,openai/o3-mini-high,openai/o3-mini-high-2025-01-31
+intelligence,182,Mercury 2,10.8,inception/mercury-2,inception/mercury-2-20260304
+intelligence,183,Trinity Large Thinking,10.8,,arcee-ai/trinity-large-thinking
+intelligence,184,INTELLECT-3 (Based on GLM-4.5-Air),10.6,prime-intellect/intellect-3,prime-intellect/intellect-3-20251126
+intelligence,185,GPT-5 (ChatGPT),10.4,,openai/gpt-5-chat-2025-08-07
+intelligence,186,Gemini 2.5 Flash-Lite Preview (Sep '25) (Reasoning),10.4,,google/gemini-2.5-flash-lite
+intelligence,187,Nemotron 3 Nano Omni 30B A3B Reasoning,10.3,,nvidia/nemotron-3-nano-omni-30b-a3b-reasoning-20260428
+intelligence,188,GPT-4.1 mini,10.2,,openai/gpt-4.1-mini-2025-04-14
+intelligence,189,gpt-oss-20b (Low),10,,openai/gpt-oss-20b
+intelligence,190,North Mini Code,9.9,cohere/north-mini-code,cohere/north-mini-code-20260617
+intelligence,191,Qwen3 VL 235B A22B Instruct,9.9,,qwen/qwen3-vl-235b-a22b-instruct
+intelligence,192,o1-mini,9.8,openai/o1-mini,openai/o1-mini
+intelligence,193,Qwen3 30B A3B 2507 (Reasoning),9.8,,qwen/qwen3-30b-a3b-thinking-2507
+intelligence,194,DeepSeek V3 0324,9.7,,deepseek/deepseek-chat-v3-0324
+intelligence,195,Ling 2.6 Flash,9.7,inclusionai/ling-2.6-flash,inclusionai/ling-2.6-flash-20260421
+intelligence,196,Qwen3 Coder 30B A3B Instruct,9.6,,qwen/qwen3-coder-30b-a3b-instruct
+intelligence,197,GPT-4.5 (Preview),9.6,,openai/gpt-4.5-preview-2025-02-27
+intelligence,198,Qwen3 Next 80B A3B Instruct,9.6,qwen/qwen3-next-80b-a3b-instruct,qwen/qwen3-next-80b-a3b-instruct-2509
+intelligence,199,QwQ 32B,9.5,,qwen/qwq-32b
+intelligence,200,Qwen3 235B A22B (Reasoning),9.5,,qwen/qwen3-235b-a22b-04-28
+intelligence,201,Qwen3 VL 30B A3B (Reasoning),9.5,,qwen/qwen3-vl-30b-a3b-thinking
+intelligence,202,Mistral Large 3,9.3,,mistralai/mistral-large-2512
+intelligence,203,Llama 4 Maverick,9.3,,meta-llama/llama-4-maverick-17b-128e-instruct
+intelligence,204,Qwen3 Coder Next,9.2,,qwen/qwen3-coder-next-2025-02-03
+intelligence,205,Nova Premier,9.2,,amazon/nova-premier-v1
+intelligence,206,Mistral Medium 3.1,9.2,,mistralai/mistral-medium-3.1
+intelligence,207,Magistral Medium 1,9.1,,mistralai/magistral-medium-2506
+intelligence,208,Llama Nemotron Super 49B v1.5 (Reasoning),9,,nvidia/llama-3.3-nemotron-super-49b-v1.5
+intelligence,209,"GPT-4o (March 2025, chatgpt-4o-latest)",9,openai/chatgpt-4o-latest,openai/chatgpt-4o-latest
+intelligence,210,Devstral Medium,9,mistralai/devstral-medium,mistralai/devstral-medium-2507
+intelligence,211,Mistral Medium 3,9,,mistralai/mistral-medium-3
+intelligence,212,NVIDIA Nemotron 3 Nano 30B A3B (Reasoning),8.9,,nvidia/nemotron-3-nano-30b-a3b
+intelligence,213,Gemini 2.0 Flash (Feb '25),8.9,google/gemini-2.0-flash-001,google/gemini-2.0-flash-001
+intelligence,214,Claude 3.5 Haiku,8.9,anthropic/claude-3.5-haiku,anthropic/claude-3-5-haiku
+intelligence,215,Devstral Small (May '25),8.7,,mistralai/devstral-small-2507
+intelligence,216,Claude 3 Opus,8.7,anthropic/claude-3-opus,anthropic/claude-3-opus
+intelligence,217,Sonar Reasoning,8.7,perplexity/sonar-reasoning,perplexity/sonar-reasoning
+intelligence,218,Devstral 2,8.6,,mistralai/devstral-2512
+intelligence,219,DeepSeek V3 (Dec '24),8.5,,deepseek/deepseek-chat
+intelligence,220,LFM2.5-2.6B,8.4,liquid/lfm-2.5-2.6b,liquid/lfm-2.5-2.6b-20260811
+intelligence,221,DeepSeek R1 Distill Qwen 32B,8.4,,deepseek/deepseek-r1-distill-qwen-32b
+intelligence,222,GPT-4o (Nov '24),8.4,,openai/gpt-4o-2024-11-20
+intelligence,223,Qwen3 VL 8B (Reasoning),8.2,,qwen/qwen3-vl-8b-thinking
+intelligence,224,Magistral Small 1,8.2,,mistralai/magistral-small-2506
+intelligence,225,DeepSeek R1 0528 Qwen3 8B,8.1,,deepseek/deepseek-r1-0528-qwen3-8b
+intelligence,226,Gemini 1.5 Pro (Sep '24),7.9,google/gemini-pro-1.5,google/gemini-pro-1.5
+intelligence,227,Claude 3.5 Sonnet (Oct '24),7.9,,anthropic/claude-3.5-sonnet
+intelligence,228,Qwen3 VL 30B A3B Instruct,7.9,,qwen/qwen3-vl-30b-a3b-instruct
+intelligence,229,Hermes 4 - Llama-3.1 70B (Reasoning),7.9,nousresearch/hermes-4-70b,nousresearch/hermes-4-70b
+intelligence,230,DeepSeek R1 Distill Llama 70B,7.9,,deepseek/deepseek-r1-distill-llama-70b
+intelligence,231,GPT-4.1 nano,7.8,,openai/gpt-4.1-nano-2025-04-14
+intelligence,232,Solar Pro 3,7.8,upstage/solar-pro-3,upstage/solar-pro-3
+intelligence,233,DeepSeek R1 Distill Qwen 14B,7.8,deepseek/deepseek-r1-distill-qwen-14b,deepseek/deepseek-r1-distill-qwen-14b
+intelligence,234,Sonar,7.7,,perplexity/sonar
+intelligence,235,GPT-4o (Aug '24),7.7,,openai/gpt-4o-2024-08-06
+intelligence,236,Llama 3.3 Instruct 70B,7.7,,meta-llama/llama-3.3-70b-instruct
+intelligence,237,Qwen2.5 Instruct 72B,7.7,,qwen/qwen-2.5-72b-instruct
+intelligence,238,Sonar Pro,7.6,,perplexity/sonar-pro
+intelligence,239,GLM-4.5V (Reasoning),7.6,,z-ai/glm-4.5v
+intelligence,240,Mistral Large 2 (Nov '24),7.6,,mistralai/mistral-large-2407
+intelligence,241,Qwen3 30B A3B (Reasoning),7.6,,qwen/qwen3-30b-a3b-04-28
+intelligence,242,NVIDIA Nemotron Nano 12B v2 VL (Reasoning),7.5,,nvidia/nemotron-nano-12b-v2-vl
+intelligence,243,Hermes 4 - Llama-3.1 405B (Reasoning),7.5,,nousresearch/hermes-4-405b
+intelligence,244,ERNIE 4.5 300B A47B,7.5,,baidu/ernie-4.5-300b-a47b
+intelligence,245,Qwen3 30B A3B 2507 Instruct,7.5,,qwen/qwen3-30b-a3b-instruct-2507
+intelligence,246,Llama 3.1 Nemotron Ultra 253B v1 (Reasoning),7.5,,nvidia/llama-3.1-nemotron-ultra-253b-v1
+intelligence,247,Gemini 2.0 Flash-Lite (Feb '25),7.4,google/gemini-2.0-flash-lite-001,google/gemini-2.0-flash-lite-001
+intelligence,248,NVIDIA Nemotron Nano 9B V2 (Reasoning),7.4,,nvidia/nemotron-nano-9b-v2
+intelligence,249,Qwen3 32B (Non-reasoning),7.3,qwen/qwen3-32b,qwen/qwen3-32b-04-28
+intelligence,250,Llama 3.3 Nemotron Super 49B v1 (Non-reasoning),7.3,nvidia/llama-3.3-nemotron-super-49b-v1,nvidia/llama-3.3-nemotron-super-49b-v1
+intelligence,251,Llama 3.1 Instruct 405B,7.3,,meta-llama/llama-3.1-405b-instruct
+intelligence,252,Qwen3 VL 8B Instruct,7.3,,qwen/qwen3-vl-8b-instruct
+intelligence,253,GPT-4o (May '24),7.3,,openai/gpt-4o-2024-05-13
+intelligence,254,Qwen3 4B (Reasoning),7.2,,qwen/qwen3-4b-04-28
+intelligence,255,LFM2.5-8B-A1B,7.2,liquid/lfm2-8b-a1b,liquid/lfm2-8b-a1b
+intelligence,256,Claude 3.5 Sonnet (June '24),7.2,anthropic/claude-3.5-sonnet-20240620,anthropic/claude-3.5-sonnet-20240620
+intelligence,257,Mistral Small 3.1,7.1,mistralai/mistral-small,mistralai/mistral-small
+intelligence,258,Gemini 1.5 Flash (Sep '24),7.1,google/gemini-flash-1.5,google/gemini-flash-1.5
+intelligence,259,Pixtral Large,7.1,,mistralai/pixtral-large-2411
+intelligence,260,Olmo 3.1 32B Think,7.1,allenai/olmo-3.1-32b-think,allenai/olmo-3.1-32b-think-20251215
+intelligence,261,Grok 2 (Dec '24),7.1,x-ai/grok-2-1212,x-ai/grok-2-1212
+intelligence,262,GPT-4 Turbo,7,,openai/gpt-4-turbo
+intelligence,263,Nova Pro,7,,amazon/nova-pro-v1
+intelligence,264,Command A,7,cohere/command-r,cohere/command-r
+intelligence,265,Grok Beta,6.9,x-ai/grok-beta,x-ai/grok-beta
+intelligence,266,Llama 3.1 Nemotron Instruct 70B,6.9,,nvidia/llama-3.1-nemotron-70b-instruct
+intelligence,267,Llama 3.1 Instruct 8B,6.9,,meta-llama/llama-3.1-8b-instruct
+intelligence,268,Qwen2.5 Instruct 32B,6.9,qwen/qwen2.5-32b-instruct,qwen/qwen2.5-32b-instruct
+intelligence,269,Hermes 4 - Llama-3.1 70B (Non-reasoning),6.7,nousresearch/hermes-3-llama-3.1-70b,nousresearch/hermes-3-llama-3.1-70b
+intelligence,270,Nova Lite,6.7,,amazon/nova-lite-v1
+intelligence,271,Mistral Small 3,6.7,,mistralai/mistral-small-24b-instruct-2501
+intelligence,272,GPT-4o mini,6.7,,openai/gpt-4o-mini
+intelligence,273,Qwen3 14B (Non-reasoning),6.7,qwen/qwen3-14b,qwen/qwen3-14b-04-28
+intelligence,274,Qwen2.5 Coder Instruct 32B,6.7,,qwen/qwen-2.5-coder-32b-instruct
+intelligence,275,GPT-4,6.7,,openai/gpt-4
+intelligence,276,Granite 4.1 8B,6.6,,ibm-granite/granite-4.1-8b-20260429
+intelligence,277,Llama 3.1 Instruct 70B,6.6,,meta-llama/llama-3.1-70b-instruct
+intelligence,278,Olmo 3 32B Think,6.5,,allenai/olmo-3-32b-think-20251121
+intelligence,279,DeepSeek R1 Distill Llama 8B,6.5,deepseek/deepseek-r1-distill-llama-8b,deepseek/deepseek-r1-distill-llama-8b
+intelligence,280,Olmo 3.1 32B Instruct,6.5,allenai/olmo-2-0325-32b-instruct,allenai/olmo-2-0325-32b-instruct
+intelligence,281,Llama 4 Scout,6.5,,meta-llama/llama-4-scout-17b-16e-instruct
+intelligence,282,Mistral Saba,6.5,,mistralai/mistral-saba-2502
+intelligence,283,Reka Flash (Sep '24),6.4,rekaai/reka-flash-3,rekaai/reka-flash-3
+intelligence,284,Qwen2.5 Turbo,6.4,,qwen/qwen-turbo-2024-11-01
+intelligence,285,Llama 3.2 Instruct 90B (Vision),6.4,meta-llama/llama-3.2-90b-vision-instruct,meta-llama/llama-3.2-90b-vision-instruct
+intelligence,286,R1 1776,6.4,perplexity/r1-1776,perplexity/r1-1776
+intelligence,287,Grok-1,6.3,x-ai/grok-2,x-ai/grok-2
+intelligence,288,Phi-4 Mini Instruct,6.3,microsoft/phi-4-mini-instruct,microsoft/phi-4-mini-instruct
+intelligence,289,Qwen2 Instruct 72B,6.3,qwen/qwen-2-72b-instruct,qwen/qwen-2-72b-instruct
+intelligence,290,Gemini 1.5 Flash-8B,6.2,google/gemini-flash-1.5-8b,google/gemini-flash-1.5-8b
+intelligence,291,Jamba 1.7 Large,6.1,ai21/jamba-large-1.7,ai21/jamba-large-1.7
+intelligence,292,DeepHermes 3 - Mistral 24B Preview (Non-reasoning),6.1,nousresearch/deephermes-3-mistral-24b-preview,nousresearch/deephermes-3-mistral-24b-preview
+intelligence,293,Ministral 3 14B,6,,mistralai/ministral-14b-2512
+intelligence,294,Jamba 1.5 Large,6,ai21/jamba-1-5-large,ai21/jamba-1-5-large
+intelligence,295,Jamba 1.6 Large,6,ai21/jamba-1.6-large,ai21/jamba-1.6-large
+intelligence,296,Qwen3 8B (Non-reasoning),6,qwen/qwen3-8b,qwen/qwen3-8b-04-28
+intelligence,297,Claude 3 Sonnet,5.9,anthropic/claude-3-sonnet,anthropic/claude-3-sonnet
+intelligence,298,Phi-4,5.9,microsoft/phi-4,microsoft/phi-4
+intelligence,299,LFM2 24B A2B,5.9,,liquid/lfm-2-24b-a2b-20260224
+intelligence,300,Nova Micro,5.9,,amazon/nova-micro-v1
+intelligence,301,Phi-3 Mini Instruct 3.8B,5.8,microsoft/phi-3-mini-128k-instruct,microsoft/phi-3-mini-128k-instruct
+intelligence,302,Mistral Large (Feb '24),5.8,,mistralai/mistral-large
+intelligence,303,Gemma 3n E4B Instruct Preview (May '25),5.8,google/gemma-3n-e4b-it,google/gemma-3n-e4b-it
+intelligence,304,Phi-4 Multimodal Instruct,5.8,microsoft/phi-4-multimodal-instruct,microsoft/phi-4-multimodal-instruct
+intelligence,305,Qwen2.5 Coder Instruct 7B,5.8,qwen/qwen2.5-coder-7b-instruct,qwen/qwen2.5-coder-7b-instruct
+intelligence,306,Mixtral 8x22B Instruct,5.7,,mistralai/mixtral-8x22b-instruct
+intelligence,307,Llama 3.2 Instruct 3B,5.7,,meta-llama/llama-3.2-3b-instruct
+intelligence,308,Qwen1.5 Chat 110B,5.7,qwen/qwen-110b-chat,qwen/qwen-110b-chat
+intelligence,309,Claude 2.1,5.6,anthropic/claude-2.1,anthropic/claude-2.1
+intelligence,310,Claude 3 Haiku,5.6,,anthropic/claude-3-haiku
+intelligence,311,Olmo 3 7B Think,5.6,allenai/olmo-3-7b-think,allenai/olmo-3-7b-think-20251121
+intelligence,312,Mistral Medium,5.5,mistralai/mistral-medium,mistralai/mistral-medium
+intelligence,313,DeepSeek R1 Distill Qwen 1.5B,5.5,deepseek/deepseek-r1-distill-qwen-1.5b,deepseek/deepseek-r1-distill-qwen-1.5b
+intelligence,314,Llama 3 Instruct 70B,5.5,,meta-llama/llama-3-70b-instruct
+intelligence,315,GPT-3.5 Turbo,5.5,,openai/gpt-3.5-turbo
+intelligence,316,Claude 2.0,5.5,anthropic/claude-2,anthropic/claude-2
+intelligence,317,Ministral 3 8B,5.5,,mistralai/ministral-8b-2512
+intelligence,318,Llama 3.2 Instruct 11B (Vision),5.4,,meta-llama/llama-3.2-11b-vision-instruct
+intelligence,319,Qwen Chat 72B,5.4,,qwen/qwen-72b-chat
+intelligence,320,LFM 40B,5.4,liquid/lfm-40b,liquid/lfm-40b
+intelligence,321,Arctic Instruct,5.4,snowflake/snowflake-arctic-instruct,snowflake/snowflake-arctic-instruct
+intelligence,322,Command-R+ (Apr '24),5.3,cohere/command-r-plus-04-2024,cohere/command-r-plus-04-2024
+intelligence,323,OpenChat 3.5 (1210),5.3,openchat/openchat-7b,openchat/openchat-7b
+intelligence,324,DBRX Instruct,5.3,databricks/dbrx-instruct,databricks/dbrx-instruct
+intelligence,325,Llama 2 Chat 70B,5.3,meta-llama/llama-2-70b-chat,meta-llama/llama-2-70b-chat
+intelligence,326,Llama 2 Chat 13B,5.3,meta-llama/llama-2-13b-chat,meta-llama/llama-2-13b-chat
+intelligence,327,LFM2 2.6B,5.2,,liquid/lfm-2.2-6b
+intelligence,328,Jamba 1.5 Mini,5.2,ai21/jamba-1-5-mini,ai21/jamba-1-5-mini
+intelligence,329,LFM2.5-1.2B-Instruct,5.2,,liquid/lfm-2.5-1.2b-instruct-20260120
+intelligence,330,Qwen3 1.7B (Reasoning),5.2,,qwen/qwen3-1.7b-04-28
+intelligence,331,Olmo 3 7B Instruct,5.2,allenai/olmo-7b-instruct,allenai/olmo-7b-instruct
+intelligence,332,Jamba 1.6 Mini,5.2,ai21/jamba-1.6-mini,ai21/jamba-1.6-mini
+intelligence,333,Jamba 1.7 Mini,5.2,ai21/jamba-mini-1.7,ai21/jamba-mini-1.7
+intelligence,334,LFM2.5-1.2B-Thinking,5.2,,liquid/lfm-2.5-1.2b-thinking-20260120
+intelligence,335,Mixtral 8x7B Instruct,5.1,,mistralai/mixtral-8x7b-instruct
+intelligence,336,Granite 4.0 Micro,5.1,,ibm-granite/granite-4.0-h-micro
+intelligence,337,DeepHermes 3 - Llama-3.1 8B Preview (Non-reasoning),5.1,nousresearch/deephermes-3-llama-3-8b-preview,nousresearch/deephermes-3-llama-3-8b-preview
+intelligence,338,Molmo2-8B,5,,allenai/molmo-2-8b-20260109
+intelligence,339,Command-R (Mar '24),5,cohere/command-r-03-2024,cohere/command-r-03-2024
+intelligence,340,Claude Instant,5,anthropic/claude-instant-1,anthropic/claude-instant-1
+intelligence,341,Mistral 7B Instruct,5,,mistralai/mistral-7b-instruct
+intelligence,342,Qwen Chat 14B,5,,qwen/qwen-14b-chat
+intelligence,343,Gemma 3 27B Instruct,4.9,,google/gemma-3-27b-it
+intelligence,344,Gemma 3 1B Instruct,4.8,,google/gemma-3-1b-it
+intelligence,345,Ministral 3 3B,4.8,,mistralai/ministral-3b-2512
+intelligence,346,Gemma 3 4B Instruct,4.8,,google/gemma-3-4b-it
+intelligence,347,Gemma 3n E2B Instruct,4.8,google/gemma-3n-e2b-it,google/gemma-3n-e2b-it
+intelligence,348,Qwen3 0.6B (Reasoning),4.8,qwen/qwen3-0.6b-04-28,qwen/qwen3-0.6b-04-28
+intelligence,349,Llama 3.2 Instruct 1B,4.8,,meta-llama/llama-3.2-1b-instruct
+intelligence,350,Llama 3 Instruct 8B,4.8,,meta-llama/llama-3-8b-instruct
+intelligence,351,Gemma 3 12B Instruct,3.8,,google/gemma-3-12b-it
+coding,1,"Claude Fable 5.1 (Max, Default Fallback)",81.6,anthropic/claude-fable-5.1,anthropic/claude-fable-5.1-20260831
+coding,2,GPT-5.6 Sol (Xhigh),78.3,,openai/gpt-5.6-sol-20260709
+coding,3,Claude Opus 5 (Max),78,anthropic/claude-opus-5,anthropic/claude-opus-5-20260723
+coding,4,GPT-6 Astra (High),77.1,,openai/gpt-6-astra-20260903
+coding,5,Grok 4.6 (High),76.8,x-ai/grok-4.6,x-ai/grok-4.6-20260810
+coding,6,GPT-5.6 Terra (Max),76.7,openai/gpt-5.6-terra,openai/gpt-5.6-terra-20260709
+coding,7,Muse Spark 1.3 (Xhigh),76.5,,meta/muse-spark-1.3-20260902
+coding,8,"Claude Fable 5 (Max, Opus 4.8 Fallback)",76.5,,anthropic/claude-5-fable-20260609
+coding,9,Gemini 3.8 Flash (High),76.3,google/gemini-3.8-flash,google/gemini-3.8-flash-20260902
+coding,10,Kimi K3 (Max),76.2,moonshotai/kimi-k3,moonshotai/kimi-k3-20260715
+coding,11,Qwen3.8 Max (0902),76.2,qwen/qwen3.8-max-0902,qwen/qwen3.8-max-20260902
+coding,12,Gemini 3.7 Flash (High),76.1,google/gemini-3.7-flash,google/gemini-3.7-flash-20260813
+coding,13,GPT-5.5 (Xhigh),74.9,openai/gpt-5.5,openai/gpt-5.5-20260423
+coding,14,GLM-5.3 (Max),74.8,z-ai/glm-5.3,z-ai/glm-5.3-20260816
+coding,15,Claude Opus 4.8 (Max),74.3,anthropic/claude-opus-4.8,anthropic/claude-4.8-opus-20260528
+coding,16,Claude Opus 4.7 (Max),73.6,anthropic/claude-opus-4.7,anthropic/claude-4.7-opus-20260416
+coding,17,Grok 4.5 (High),72.4,x-ai/grok-4.5,x-ai/grok-4.5-20260708
+coding,18,Muse Spark 1.2 (Xhigh),72.2,,meta/muse-spark-1.2-20260805
+coding,19,Qwen3.8 2.4T A95B,71.9,,qwen/qwen3.8-2.4t-a95b-20260812
+coding,20,GLM-5.3-Flash,71.5,z-ai/glm-5.3-flash,z-ai/glm-5.3-flash-20260826
+coding,21,Claude Sonnet 5 (Max),71.5,anthropic/claude-sonnet-5,anthropic/claude-sonnet-5-20260630
+coding,22,GPT-5.6 Luna (Max),71.4,openai/gpt-5.6-luna,openai/gpt-5.6-luna-20260709
+coding,23,Muse Spark 1.1 (Xhigh),71.3,,meta/muse-spark-1.1-20260709
+coding,24,GPT-5.4 (Xhigh),71.1,openai/gpt-5.4,openai/gpt-5.4-20260305
+coding,25,Gemini 3.5 Flash (High),70.1,,google/gemini-3.5-flash-20260519
+coding,26,Gemini 3.6 Flash (High),69.2,google/gemini-3.6-flash,google/gemini-3.6-flash-20260721
+coding,27,DeepSeek V4 Flash 0731 (Max),69.1,,deepseek/deepseek-v4-flash-20260731
+coding,28,Qwen3.8 Max,68.9,qwen/qwen3.8-max,qwen/qwen3.8-max-20260803
+coding,29,Gemini 3.1 Pro Preview,68.8,google/gemini-3.1-pro-preview,google/gemini-3.1-pro-preview-20260219
+coding,30,GLM-5.2 (Max),68.8,z-ai/glm-5.2,z-ai/glm-5.2-20260616
+coding,31,DeepSeek V4 Pro 0813 (Max),68.8,,deepseek/deepseek-v4-pro-20260813
+coding,32,Qwen3.8 27B (Xhigh),68.1,qwen/qwen3.8-27b,qwen/qwen3.8-27b-20260814
+coding,33,Qwen3.7 Max,66,,qwen/qwen3.7-max-20260520
+coding,34,DeepSeek V4 Flash Vision (Max),65,,deepseek/deepseek-v4-flash-vision-exp-20260821
+coding,35,Claude Sonnet 4.6 (Max),63,,anthropic/claude-4.6-sonnet-20260217
+coding,36,Kimi K2.6 (Reasoning),61.8,,moonshotai/kimi-k2.6-20260420
+coding,37,Kimi K2.7 Code,60.8,,moonshotai/kimi-k2.7-code-20260612
+coding,38,MiMo-V2.5-Pro (Reasoning),60.2,xiaomi/mimo-v2.5-pro,xiaomi/mimo-v2.5-pro-20260422
+coding,39,KAT Coder Pro V2,59.5,kwaipilot/kat-coder-pro-v2,kwaipilot/kat-coder-pro-v2-20260327
+coding,40,DeepSeek V4 Pro 0424 (Max),59.4,,deepseek/deepseek-v4-pro-20260423
+coding,41,Nex-N2-Pro (Based on Qwen3.5-397B-A17B),59.1,nex-agi/nex-n2-pro,nex-agi/nex-n2-pro
+coding,42,Hy3,58.8,,tencent/hy3-preview-20260421
+coding,43,MiniMax-M3,58.6,minimax/minimax-m3,minimax/minimax-m3-20260531
+coding,44,Ling-3.0-flash-VL,57,inclusionai/ling-3.0-flash-vl,inclusionai/ling-3.0-flash-vl-20260910
+coding,45,MiMo-V2.5,56.8,,xiaomi/mimo-v2.5-20260422
+coding,46,DeepSeek V4 Flash 0420 (Max),56.2,,deepseek/deepseek-v4-flash-20260423
+coding,47,GPT-5.4 nano (Xhigh),56.1,openai/gpt-5.4-nano,openai/gpt-5.4-nano-20260317
+coding,48,GPT-5.4 mini (Xhigh),56.1,openai/gpt-5.4-mini,openai/gpt-5.4-mini-20260317
+coding,49,Qwen3.7 Plus,55.9,,qwen/qwen3.7-plus-20260602
+coding,50,GLM-5.1 (Reasoning),55.8,,z-ai/glm-5.1-20260406
+coding,51,Ling-3.0-flash-Fin,55.6,inclusionai/ling-3.0-flash-fin,inclusionai/ling-3.0-flash-fin-20260827
+coding,52,Qwen3.6 Plus,54.5,,qwen/qwen3.6-plus-04-02
+coding,53,Qwen3.6 27B (Reasoning),53.7,,qwen/qwen3.6-27b-20260422
+coding,54,Inkling Small,52.9,thinkingmachines/inkling-small,thinkingmachines/inkling-small-20260730
+coding,55,Solar Pro 4,52.7,upstage/solar-pro4,upstage/solar-pro4-20260810
+coding,56,MiniMax-M2.7,52.6,minimax/minimax-m2.7,minimax/minimax-m2.7-20260318
+coding,57,Claude 4.5 Sonnet (Reasoning),52.1,anthropic/claude-sonnet-4.5,anthropic/claude-4.5-sonnet-20250929
+coding,58,Inkling (Xhigh),52.1,thinkingmachines/inkling,thinkingmachines/inkling-20260715
+coding,59,Grok Build 0.1 0616,51.5,,x-ai/grok-build-0.1-20260520
+coding,60,Ling 3.0 Flash,50.6,inclusionai/ling-3.0-flash,inclusionai/ling-3.0-flash-20260723
+coding,61,MiMo-V2-Flash (Non-reasoning),49.8,xiaomi/mimo-v2-flash,xiaomi/mimo-v2-flash-20251210
+coding,62,GPT-5.1 (High),49.4,openai/gpt-5.1,openai/gpt-5.1-20251113
+coding,63,Nemotron 3 Ultra 550B A55B (Reasoning),49.3,nvidia/nemotron-3-ultra-550b-a55b,nvidia/nemotron-3-ultra-550b-a55b-20260604
+coding,64,Gemini 3.5 Flash-Lite,49.3,google/gemini-3.5-flash-lite,google/gemini-3.5-flash-lite-20260721
+coding,65,Muse Glimmer (High),49,,meta/muse-glimmer-30b-20260810
+coding,66,Qwen3.5 397B A17B (Reasoning),48.2,,qwen/qwen3.5-397b-a17b-20260216
+coding,67,Mistral Medium 3.5,46.9,,mistralai/mistral-medium-3.5-20260430
+coding,68,Kimi K2.5 (Reasoning),46.8,moonshotai/kimi-k2.5,moonshotai/kimi-k2.5-0127
+coding,69,Gemini 2.5 Pro Preview (Mar' 25),46.7,google/gemini-2.5-pro-exp-03-25,google/gemini-2.5-pro-exp-03-25
+coding,70,GLM-4.6 (Reasoning),45.8,,z-ai/glm-4.6
+coding,71,Qwen3.5 122B A10B (Reasoning),45.7,,qwen/qwen3.5-122b-a10b-20260224
+coding,72,LongCat 2.0,45.3,meituan/longcat-2.0,meituan/longcat-2.0-20260720
+coding,73,GLM-4.7 (Reasoning),45.3,,z-ai/glm-4.7-20251222
+coding,74,DeepSeek V3.2 (Reasoning),44.2,deepseek/deepseek-v3.2,deepseek/deepseek-v3.2-20251201
+coding,75,Claude 4.5 Haiku (Reasoning),43.9,,anthropic/claude-4.5-haiku-20251001
+coding,76,DeepSeek V3.1 Terminus (Reasoning),43.5,,deepseek/deepseek-v3.1-terminus
+coding,77,Gemma 4 31B (Reasoning),43.4,,google/gemma-4-31b-it-20260402
+coding,78,Ring-2.6-1T,42.8,inclusionai/ring-2.6-1t,inclusionai/ring-2.6-1t-20260508
+coding,79,Grok 4.3 (High),42.2,,x-ai/grok-4.3-20260430
+coding,80,Qwen3.6 35B A3B (Reasoning),41.9,,qwen/qwen3.6-35b-a3b-20260415
+coding,81,o1,39.7,openai/o1,openai/o1-2024-12-17
+coding,82,Step 3.7 Flash,39.6,stepfun/step-3.7-flash,stepfun/step-3.7-flash-20260528
+coding,83,Gemma 4 26B A4B (Reasoning),39.3,,google/gemma-4-26b-a4b-it-20260403
+coding,84,GPT-5 (High),37.8,openai/gpt-5,openai/gpt-5-2025-08-07
+coding,85,Nemotron 3 Super 120B A12B (Reasoning),37.7,nvidia/nemotron-3-super-120b-a12b,nvidia/nemotron-3-super-120b-a12b-20230311
+coding,86,Claude 4 Sonnet (Reasoning),37.6,anthropic/claude-sonnet-4,anthropic/claude-4-sonnet-20250522
+coding,87,Qwen3.5 35B A3B (Non-reasoning),37,,qwen/qwen3.5-35b-a3b-20260224
+coding,88,North Mini Code,36.5,cohere/north-mini-code,cohere/north-mini-code-20260617
+coding,89,Qwen3 Coder Next,36.2,,qwen/qwen3-coder-next-2025-02-03
+coding,90,Gemini 3.1 Flash-Lite,34.7,google/gemini-3.1-flash-lite-preview,google/gemini-3.1-flash-lite-preview-20260303
+coding,91,Gemini 2.5 Pro,33.3,google/gemini-2.5-pro,google/gemini-2.5-pro
+coding,92,Devstral 2,31.3,,mistralai/devstral-2512
+coding,93,Mercury 2,31.1,inception/mercury-2,inception/mercury-2-20260304
+coding,94,gpt-oss-120b (High),30.4,,openai/gpt-oss-120b
+coding,95,Claude 3.5 Sonnet (Oct '24),30.2,,anthropic/claude-3.5-sonnet
+coding,96,Devstral Small 2,29.3,mistralai/devstral-small,mistralai/devstral-small-2507
+coding,97,Qwen3.5 9B (Reasoning),28.7,,qwen/qwen3.5-9b-20260310
+coding,98,Command A+,27.8,,cohere/command-a-03-2025
+coding,99,Nemotron 3.5 Lightning,26.8,nvidia/nemotron-3.5-lightning,nvidia/nemotron-3.5-lightning-20260807
+coding,100,Mistral Small 4 (Reasoning),26.6,,mistralai/mistral-small-2603
+coding,101,Ling 3.0 Tiny,26.5,inclusionai/ling-3.0-tiny,inclusionai/ling-3.0-tiny-20260806
+coding,102,Mistral Small 3.1,26.3,mistralai/mistral-small,mistralai/mistral-small
+coding,103,Claude 3.5 Sonnet (June '24),26,anthropic/claude-3.5-sonnet-20240620,anthropic/claude-3.5-sonnet-20240620
+coding,104,Trinity Large Thinking,25.8,,arcee-ai/trinity-large-thinking
+coding,105,Ling 2.6 Flash,25.3,inclusionai/ling-2.6-flash,inclusionai/ling-2.6-flash-20260421
+coding,106,DeepSeek R1 (Jan '25),24.6,,deepseek/deepseek-r1
+coding,107,GPT-4o (May '24),24.2,,openai/gpt-4o-2024-05-13
+coding,108,Gemini 1.5 Pro (Sep '24),23.6,google/gemini-pro-1.5,google/gemini-pro-1.5
+coding,109,Nova 2.0 Lite (High),23,,amazon/nova-2-lite-v1
+coding,110,DeepSeek V3 (Dec '24),23,,deepseek/deepseek-chat
+coding,111,Granite 4.2 8B,22.4,ibm-granite/granite-4.2-8b,ibm-granite/granite-4.2-8b-20260831
+coding,112,Qwen3 235B A22B 2507 (Reasoning),22.1,,qwen/qwen3-235b-a22b-thinking-2507
+coding,113,GPT-4 Turbo,21.5,,openai/gpt-4-turbo
+coding,114,DeepSeek V3 0324,21.2,,deepseek/deepseek-chat-v3-0324
+coding,115,K2 Think V2,21,,moonshotai/kimi-k2-thinking-20251106
+coding,116,gpt-oss-20b (High),20.7,,openai/gpt-oss-20b
+coding,117,Mistral Medium 3.1,20.5,,mistralai/mistral-medium-3.1
+coding,118,GPT-4.1 mini,20.2,,openai/gpt-4.1-mini-2025-04-14
+coding,119,Mistral Large 3,20.1,,mistralai/mistral-large-2512
+coding,120,Claude 3 Opus,19.5,anthropic/claude-3-opus,anthropic/claude-3-opus
+coding,121,Qwen3 Next 80B A3B (Reasoning),17.4,,qwen/qwen3-next-80b-a3b-thinking-2509
+coding,122,o3-mini (High),16.3,openai/o3-mini-high,openai/o3-mini-high-2025-01-31
+coding,123,Llama 4 Maverick,16.3,,meta-llama/llama-4-maverick-17b-128e-instruct
+coding,124,Solar Pro 3,16.2,upstage/solar-pro-3,upstage/solar-pro-3
+coding,125,Claude 3.5 Haiku,15.9,anthropic/claude-3.5-haiku,anthropic/claude-3-5-haiku
+coding,126,GPT-5 mini (High),15.6,openai/gpt-5-mini,openai/gpt-5-mini-2025-08-07
+coding,127,Qwen3 32B (Reasoning),15.3,,qwen/qwen3-32b-04-28
+coding,128,Ministral 3 14B,14.4,,mistralai/ministral-14b-2512
+coding,129,NVIDIA Nemotron 3 Nano 30B A3B (Reasoning),14.4,,nvidia/nemotron-3-nano-30b-a3b
+coding,130,Claude 2.1,14,anthropic/claude-2.1,anthropic/claude-2.1
+coding,131,Qwen3 14B (Reasoning),13.8,,qwen/qwen3-14b-04-28
+coding,132,Nemotron 3 Nano Omni 30B A3B Reasoning,13.8,,nvidia/nemotron-3-nano-omni-30b-a3b-reasoning-20260428
+coding,133,GPT-4,13.1,,openai/gpt-4
+coding,134,Claude 2.0,12.9,anthropic/claude-2,anthropic/claude-2
+coding,135,Qwen3 30B A3B 2507 (Reasoning),12.1,,qwen/qwen3-30b-a3b-thinking-2507
+coding,136,Llama 3.3 Instruct 70B,11.9,,meta-llama/llama-3.3-70b-instruct
+coding,137,GPT-4o mini,11.4,,openai/gpt-4o-mini
+coding,138,GPT-4.1 nano,11.1,,openai/gpt-4.1-nano-2025-04-14
+coding,139,GPT-3.5 Turbo,10.7,,openai/gpt-3.5-turbo
+coding,140,Gemma 3 27B Instruct,10.1,,google/gemma-3-27b-it
+coding,141,Ministral 3 8B,9.7,,mistralai/ministral-8b-2512
+coding,142,Granite 4.1 8B,9.5,,ibm-granite/granite-4.1-8b-20260429
+coding,143,Qwen3 8B (Reasoning),9,,qwen/qwen3-8b-04-28
+coding,144,Llama 4 Scout,8.2,,meta-llama/llama-4-scout-17b-16e-instruct
+coding,145,Claude Instant,7.8,anthropic/claude-instant-1,anthropic/claude-instant-1
+coding,146,LFM2.5-2.6B,7.7,liquid/lfm-2.5-2.6b,liquid/lfm-2.5-2.6b-20260811
+coding,147,Gemma 3 12B Instruct,5.8,,google/gemma-3-12b-it
+coding,148,Llama 3.1 Instruct 8B,5.4,,meta-llama/llama-3.1-8b-instruct
+coding,149,Ministral 3 3B,4.8,,mistralai/ministral-3b-2512
+coding,150,Phi-4 Mini Instruct,3.8,microsoft/phi-4-mini-instruct,microsoft/phi-4-mini-instruct
+coding,151,Gemma 3n E4B Instruct,3.2,google/gemma-3n-e4b-it,google/gemma-3n-e4b-it
+coding,152,Gemma 3 4B Instruct,2.7,,google/gemma-3-4b-it
+agentic,1,"Claude Fable 5.1 (Max, Default Fallback)",57.9,anthropic/claude-fable-5.1,anthropic/claude-fable-5.1-20260831
+agentic,2,Claude Opus 5 (Max),56.5,anthropic/claude-opus-5,anthropic/claude-opus-5-20260723
+agentic,3,Qwen3.8 Max (0902),56,qwen/qwen3.8-max-0902,qwen/qwen3.8-max-20260902
+agentic,4,Muse Spark 1.3 (Max),55.5,,meta/muse-spark-1.3-20260902
+agentic,5,GLM-5.3 (Max),53.1,z-ai/glm-5.3,z-ai/glm-5.3-20260816
+agentic,6,Grok 4.6 (High),53,x-ai/grok-4.6,x-ai/grok-4.6-20260810
+agentic,7,GPT-6 Astra (Max),51,openai/gpt-6-astra,openai/gpt-6-astra-20260903
+agentic,8,GLM-5.3-Flash,50.9,z-ai/glm-5.3-flash,z-ai/glm-5.3-flash-20260826
+agentic,9,"Claude Fable 5 (Max, Opus 4.8 Fallback)",50.7,,anthropic/claude-5-fable-20260609
+agentic,10,GPT-5.6 Sol (Max),50.2,openai/gpt-5.6-sol,openai/gpt-5.6-sol-20260709
+agentic,11,Qwen3.8 2.4T A95B,50.1,,qwen/qwen3.8-2.4t-a95b-20260812
+agentic,12,Kimi K3 (Max),50,moonshotai/kimi-k3,moonshotai/kimi-k3-20260715
+agentic,13,Qwen3.8 Max,49.9,qwen/qwen3.8-max,qwen/qwen3.8-max-20260803
+agentic,14,DeepSeek V4 Flash Vision (Max),47.5,,deepseek/deepseek-v4-flash-vision-exp-20260821
+agentic,15,Qwen3.8 27B (Xhigh),45.8,qwen/qwen3.8-27b,qwen/qwen3.8-27b-20260814
+agentic,16,Claude Sonnet 5 (Max),43.6,anthropic/claude-sonnet-5,anthropic/claude-sonnet-5-20260630
+agentic,17,GPT-5.6 Terra (Max),43.2,openai/gpt-5.6-terra,openai/gpt-5.6-terra-20260709
+agentic,18,Muse Spark 1.2 (Xhigh),43.2,,meta/muse-spark-1.2-20260805
+agentic,19,GPT-5.6 Luna (Max),42.1,openai/gpt-5.6-luna,openai/gpt-5.6-luna-20260709
+agentic,20,Claude Opus 4.8 (Max),41.9,anthropic/claude-opus-4.8,anthropic/claude-4.8-opus-20260528
+agentic,21,DeepSeek V4 Pro 0813 (Max),41.3,,deepseek/deepseek-v4-pro-20260813
+agentic,22,Grok 4.5 (High),41.2,x-ai/grok-4.5,x-ai/grok-4.5-20260708
+agentic,23,DeepSeek V4 Flash 0731 (Max),41,,deepseek/deepseek-v4-flash-20260731
+agentic,24,Gemini 3.8 Flash (High),40.2,google/gemini-3.8-flash,google/gemini-3.8-flash-20260902
+agentic,25,Claude Opus 4.7 (Max),38.6,anthropic/claude-opus-4.7,anthropic/claude-4.7-opus-20260416
+agentic,26,GLM-5.2 (Max),38.4,z-ai/glm-5.2,z-ai/glm-5.2-20260616
+agentic,27,GPT-5.5 (Xhigh),36.4,openai/gpt-5.5,openai/gpt-5.5-20260423
+agentic,28,Gemini 3.7 Flash (High),35.2,google/gemini-3.7-flash,google/gemini-3.7-flash-20260813
+agentic,29,Claude Sonnet 4.6 (Max),31.8,,anthropic/claude-4.6-sonnet-20260217
+agentic,30,MiniMax-M3,29.5,minimax/minimax-m3,minimax/minimax-m3-20260531
+agentic,31,Gemini 3.6 Flash (High),29,google/gemini-3.6-flash,google/gemini-3.6-flash-20260721
+agentic,32,Solar Pro 4,28.8,upstage/solar-pro4,upstage/solar-pro4-20260810
+agentic,33,Ling-3.0-flash-VL,28.7,inclusionai/ling-3.0-flash-vl,inclusionai/ling-3.0-flash-vl-20260910
+agentic,34,Ling-3.0-flash-Fin,27.9,inclusionai/ling-3.0-flash-fin,inclusionai/ling-3.0-flash-fin-20260827
+agentic,35,DeepSeek V4 Flash 0420 (High),26.3,,deepseek/deepseek-v4-flash-20260423
+agentic,36,DeepSeek V4 Pro 0424 (Max),26.3,,deepseek/deepseek-v4-pro-20260423
+agentic,37,Gemini 3.5 Flash (High),26,,google/gemini-3.5-flash-20260519
+agentic,38,Muse Spark 1.1 (Xhigh),25.8,,meta/muse-spark-1.1-20260709
+agentic,39,Hy3,24.1,,tencent/hy3-preview-20260421
+agentic,40,GLM-5.1 (Reasoning),23.9,,z-ai/glm-5.1-20260406
+agentic,41,Nex-N2-Pro (Based on Qwen3.5-397B-A17B),23.7,nex-agi/nex-n2-pro,nex-agi/nex-n2-pro
+agentic,42,Inkling Small,23.5,thinkingmachines/inkling-small,thinkingmachines/inkling-small-20260730
+agentic,43,Inkling (Xhigh),22.5,thinkingmachines/inkling,thinkingmachines/inkling-20260715
+agentic,44,Qwen3.7 Max,22.5,,qwen/qwen3.7-max-20260520
+agentic,45,MiMo-V2.5-Pro (Reasoning),21.3,xiaomi/mimo-v2.5-pro,xiaomi/mimo-v2.5-pro-20260422
+agentic,46,Kimi K2.7 Code,21,,moonshotai/kimi-k2.7-code-20260612
+agentic,47,Kimi K2.6 (Reasoning),20.5,,moonshotai/kimi-k2.6-20260420
+agentic,48,Nemotron 3 Ultra 550B A55B (Reasoning),20.1,nvidia/nemotron-3-ultra-550b-a55b,nvidia/nemotron-3-ultra-550b-a55b-20260604
+agentic,49,Ling 3.0 Flash,19.3,inclusionai/ling-3.0-flash,inclusionai/ling-3.0-flash-20260723
+agentic,50,Qwen3.6 27B (Reasoning),18.5,,qwen/qwen3.6-27b-20260422
+agentic,51,GPT-5.4 mini (Xhigh),17.9,openai/gpt-5.4-mini,openai/gpt-5.4-mini-20260317
+agentic,52,Qwen3.7 Plus,17.5,,qwen/qwen3.7-plus-20260602
+agentic,53,GPT-5.4 nano (Xhigh),16,openai/gpt-5.4-nano,openai/gpt-5.4-nano-20260317
+agentic,54,MiMo-V2.5,15.8,,xiaomi/mimo-v2.5-20260422
+agentic,55,Claude 4.5 Sonnet (Reasoning),15.8,anthropic/claude-sonnet-4.5,anthropic/claude-4.5-sonnet-20250929
+agentic,56,Grok 4.3 (High),15.5,,x-ai/grok-4.3-20260430
+agentic,57,MiniMax-M2.7,15.3,minimax/minimax-m2.7,minimax/minimax-m2.7-20260318
+agentic,58,Gemini 3.5 Flash-Lite,14.3,google/gemini-3.5-flash-lite,google/gemini-3.5-flash-lite-20260721
+agentic,59,LongCat 2.0,14,meituan/longcat-2.0,meituan/longcat-2.0-20260720
+agentic,60,Qwen3.6 35B A3B (Reasoning),13.1,,qwen/qwen3.6-35b-a3b-20260415
+agentic,61,Ring-2.6-1T,10.7,inclusionai/ring-2.6-1t,inclusionai/ring-2.6-1t-20260508
+agentic,62,Muse Glimmer (High),8.5,,meta/muse-glimmer-30b-20260810
+agentic,63,Qwen3.5 397B A17B (Reasoning),8.3,,qwen/qwen3.5-397b-a17b-20260216
+agentic,64,Gemini 3.1 Pro Preview,8.2,google/gemini-3.1-pro-preview,google/gemini-3.1-pro-preview-20260219
+agentic,65,Claude 4.5 Haiku (Reasoning),8,,anthropic/claude-4.5-haiku-20251001
+agentic,66,Qwen3.5 122B A10B (Reasoning),7.6,,qwen/qwen3.5-122b-a10b-20260224
+agentic,67,Mistral Medium 3.5,7,,mistralai/mistral-medium-3.5-20260430
+agentic,68,GPT-5 mini (High),6.8,openai/gpt-5-mini,openai/gpt-5-mini-2025-08-07
+agentic,69,DeepSeek V3.1 Terminus (Reasoning),6.8,,deepseek/deepseek-v3.1-terminus
+agentic,70,Ling 3.0 Tiny,4.4,inclusionai/ling-3.0-tiny,inclusionai/ling-3.0-tiny-20260806
+agentic,71,Gemma 4 31B (Reasoning),4.2,,google/gemma-4-31b-it-20260402
+agentic,72,gpt-oss-120b (High),3.7,,openai/gpt-oss-120b
+agentic,73,Nemotron 3.5 Lightning,3.5,nvidia/nemotron-3.5-lightning,nvidia/nemotron-3.5-lightning-20260807
+agentic,74,Gemma 4 26B A4B (Reasoning),2.9,,google/gemma-4-26b-a4b-it-20260403
+agentic,75,Devstral 2,2.3,,mistralai/devstral-2512
+agentic,76,Devstral Small 2,2,mistralai/devstral-small,mistralai/devstral-small-2507
+agentic,77,Mistral Medium 3.1,1.9,,mistralai/mistral-medium-3.1
+agentic,78,Nemotron 3 Super 120B A12B (Reasoning),1.7,nvidia/nemotron-3-super-120b-a12b,nvidia/nemotron-3-super-120b-a12b-20230311
+agentic,79,Mercury 2,1.6,inception/mercury-2,inception/mercury-2-20260304
+agentic,80,Gemini 3.1 Flash-Lite,1.6,google/gemini-3.1-flash-lite-preview,google/gemini-3.1-flash-lite-preview-20260303
+agentic,81,Gemini 2.5 Pro,1.6,google/gemini-2.5-pro,google/gemini-2.5-pro
+agentic,82,Solar Pro 3,1.4,upstage/solar-pro-3,upstage/solar-pro-3
+agentic,83,Granite 4.2 8B,1.3,ibm-granite/granite-4.2-8b,ibm-granite/granite-4.2-8b-20260831
+agentic,84,Qwen3 235B A22B 2507 (Reasoning),1.3,,qwen/qwen3-235b-a22b-thinking-2507
+agentic,85,Mistral Small 3.1,1.2,mistralai/mistral-small,mistralai/mistral-small
+agentic,86,Qwen3.5 9B (Reasoning),1.2,,qwen/qwen3.5-9b-20260310
+agentic,87,gpt-oss-20b (High),1.2,,openai/gpt-oss-20b
+agentic,88,Ministral 3 14B,1.1,,mistralai/ministral-14b-2512
+agentic,89,North Mini Code,1.1,cohere/north-mini-code,cohere/north-mini-code-20260617
+agentic,90,DeepSeek R1 (Jan '25),1.1,,deepseek/deepseek-r1
+agentic,91,Mistral Large 3,1,,mistralai/mistral-large-2512
+agentic,92,NVIDIA Nemotron 3 Nano 30B A3B (Reasoning),1,,nvidia/nemotron-3-nano-30b-a3b
+agentic,93,Trinity Large Thinking,1,,arcee-ai/trinity-large-thinking
+agentic,94,Command A+,1,,cohere/command-a-03-2025
+agentic,95,Qwen3 32B (Reasoning),0.9,,qwen/qwen3-32b-04-28
+agentic,96,o3-mini (High),0.9,openai/o3-mini-high,openai/o3-mini-high-2025-01-31
+agentic,97,Qwen3 Coder Next,0.9,,qwen/qwen3-coder-next-2025-02-03
+agentic,98,Qwen3 14B (Reasoning),0.9,,qwen/qwen3-14b-04-28
+agentic,99,Qwen3 30B A3B 2507 (Reasoning),0.9,,qwen/qwen3-30b-a3b-thinking-2507
+agentic,100,Ministral 3 3B,0.8,,mistralai/ministral-3b-2512
+agentic,101,DeepSeek V3 0324,0.8,,deepseek/deepseek-chat-v3-0324
+agentic,102,DeepSeek V3 (Dec '24),0.8,,deepseek/deepseek-chat
+agentic,103,Mistral Small 4 (Reasoning),0.8,,mistralai/mistral-small-2603
+agentic,104,Qwen3 8B (Reasoning),0.8,,qwen/qwen3-8b-04-28
+agentic,105,Llama 4 Maverick,0.6,,meta-llama/llama-4-maverick-17b-128e-instruct
+agentic,106,Ministral 3 8B,0.6,,mistralai/ministral-8b-2512
+agentic,107,Llama 4 Scout,0.5,,meta-llama/llama-4-scout-17b-16e-instruct
+agentic,108,Gemma 3 12B Instruct,0.1,,google/gemma-3-12b-it
+agentic,109,Gemma 3 27B Instruct,0.1,,google/gemma-3-27b-it

@@ -1,0 +1,9 @@
+variant,kind,source
+:free,catalog,separate model entry in /api/v1/models with its own price/context
+:batch,catalog,batch-priced variant for the Batch API
+:thinking,routing,enables interleaved thinking on providers that support it
+:nitro,routing,sorts providers by throughput
+:floor,routing,sorts providers by price
+:exacto,routing,sorts providers by tool-calling reliability
+:online,routing,deprecated - web results prepended to the prompt
+:cloud,INVALID,not a documented OpenRouter variant - will 404
